@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sondos+Naasan;Software+Engineering+Student;Aspiring+Front-End+Developer" />
-
-### Software Engineering Student | Aspiring Front-End Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=087B55&center=true&vCenter=true&width=650&height=70&lines=Sondos+Naasan;Software+Engineering+Student;Aspiring+Front-End+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -11,7 +9,7 @@
 
 ---
 
-## 🌱 Technical Skills
+## Technical Skills
 
 **Front-End Development**
 
@@ -39,13 +37,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 *More projects coming soon...*
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/SondosNaasan31">
@@ -54,5 +52,6 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:059669,100:10B981&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:087B55,100:065F46&height=110&section=footer" />
 </div>
+
