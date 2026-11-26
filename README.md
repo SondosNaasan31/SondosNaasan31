@@ -1,35 +1,37 @@
 
-<h1 align="left">Hi, I'm Sondos Naasan</h1>
+<div align="center">
 
-<h3 align="left">Software Engineering Student | Aspiring Front-End Developer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sondos+Naasan;Software+Engineering+Student;Aspiring+Front-End+Developer" />
 
-<p align="left">
-  A Software Engineering student passionate about Front-End Development and building responsive, user-friendly web applications. I enjoy exploring new technologies, solving programming problems, and turning ideas into practical projects. Currently focusing on improving my React.js skills and expanding my knowledge of modern web development.
-</p>
+### Software Engineering Student | Aspiring Front-End Developer
+
+</div>
+
+> Passionate about building responsive and user-friendly web applications. I enjoy turning ideas into practical projects, exploring modern web technologies, and continuously improving my development skills. Currently focusing on React.js and Front-End Development.
 
 ---
 
-## Technical Skills
+## 🌱 Technical Skills
 
-### Front-End Development
+**Front-End Development**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light" height="48" />
 </p>
 
-### Programming Languages
+**Programming Languages**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs&theme=light" height="48" />
 </p>
 
-### Tools & Development Environment
+**Tools & Development Environment**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" height="48" />
 </p>
 
-### Currently Learning
+**Currently Learning**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react&theme=light" height="48" />
@@ -37,13 +39,13 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-*Projects will be added as I continue building and improving my skills.*
+*More projects coming soon...*
 
 ---
 
-## Connect With Me
+## 📬 Connect With Me
 
 <p align="left">
   <a href="https://github.com/SondosNaasan31">
@@ -51,3 +53,6 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:059669,100:10B981&height=110&section=footer" />
+</div>
