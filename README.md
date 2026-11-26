@@ -1,54 +1,60 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:8E7BCE,100:C5B8F0&height=220&section=header&text=Sondos%20Naasan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Front-End%20Developer&descSize=13&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:315C45,45:609879,100:B9D9C2&height=230&section=header&text=Sondos%20Naasan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Front-End%20Developer&descSize=14&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7895E8&center=true&vCenter=true&width=550&lines=Hello%2C+Welcome+to+my+GitHub!+%F0%9F%91%8B;Passionate+about+Web+Development+%F0%9F%92%BB;Learning+React+and+Growing+Every+Day+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=609879&center=true&vCenter=true&width=550&lines=Hello%2C+Welcome+to+my+GitHub!+%F0%9F%91%8B;Turning+Ideas+Into+Web+Experiences+%E2%9C%A8;Learning%2C+Building+%26+Growing+%F0%9F%8C%B1" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SondosNaasan31-8B7BC8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SondosNaasan31)
+<img src="https://img.shields.io/badge/Creative-Developer-A7C9AE?style=for-the-badge&labelColor=315C45" />
+<img src="https://img.shields.io/badge/Always-Learning-CEE6D3?style=for-the-badge&labelColor=477D60" />
 
 </div>
 
 ---
 
-## 🌷 About Me
+## 🌿 About Me
 
-Hi! I'm **Sondos**, a Software Engineering student who loves turning creative ideas into beautiful digital experiences.
+Hi! I'm **Sondos**, a Software Engineering student passionate about Front-End Development and creating beautiful digital experiences.
 
-I'm passionate about Front-End Development, exploring new technologies, and continuously improving my programming skills.
-
-✨ A little more about me:
+I enjoy combining creativity with programming to turn ideas into responsive and user-friendly applications.
 
 - 🎓 Software Engineering Student.
 - 💻 Interested in Front-End Development.
-- 🌱 Currently exploring React.js.
-- 🧩 I enjoy problem-solving and building practical projects.
-- 🚀 Always learning, experimenting, and growing.
+- 🌱 Currently learning React.js.
+- 🧩 Enjoy solving problems and building practical projects.
+- ✨ Always curious to learn something new.
 
 ---
 
-## 💻 My Tech Stack
+## 🎨 My Tech Stack
 
-### 🎨 Front-End Development
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light" />
-</p>
+### Front-End Development
 
-### ⚙️ Programming & Database
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cs&theme=light" />
-<img src="https://img.shields.io/badge/Oracle_SQL-Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+<br/><br/>
 
-### 🛠️ Tools I Use
+### Programming
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" />
-</p>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+
+<br/><br/>
+
+### Tools & Workflow
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+
+</div>
 
 ---
 
@@ -56,23 +62,23 @@ I'm passionate about Front-End Development, exploring new technologies, and cont
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react&theme=light" width="65" />
+<img src="https://skillicons.dev/icons?i=react&theme=light" width="75" />
 
 ### React.js
 
-Learning component-based development and building interactive user interfaces.
+Learning component-based development and exploring modern ways to build interactive user interfaces.
 
 </div>
 
 ---
 
-## 🌟 My GitHub Journey
+## 📊 My GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SondosNaasan31&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=A78BFA&icon_color=79C0FF&bg_color=0D1117" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SondosNaasan31&show_icons=true&theme=transparent&hide_border=true&title_color=477D60&icon_color=609879&text_color=6B8273" width="95%" />
 
-<img src="https://streak-stats.demolab.com?user=SondosNaasan31&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=A78BFA&fire=79C0FF&currStreakLabel=A78BFA" width="95%" />
+<img src="https://streak-stats.demolab.com?user=SondosNaasan31&theme=transparent&hide_border=true&ring=609879&fire=477D60&currStreakLabel=477D60" width="95%" />
 
 </div>
 
@@ -83,13 +89,13 @@ Learning component-based development and building interactive user interfaces.
 <div align="center">
 
 <a href="https://github.com/SondosNaasan31">
-<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-8B7BC8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visit%20My%20GitHub-315C45?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### ✨ Keep learning, keep creating, keep growing.
+**"Every line of code is a new step forward."** 🌿
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C5B8F0,50:8E7BCE,100:4776E6&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B9D9C2,50:609879,100:315C45&height=120&section=footer" />
 
 </div>
