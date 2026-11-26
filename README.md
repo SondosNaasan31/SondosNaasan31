@@ -1,8 +1,6 @@
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1000&color=087B55&center=true&vCenter=true&width=650&height=70&lines=Sondos+Naasan;Software+Engineering+Student;Aspiring+Front-End+Developer" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=1000&color=065F46&center=true&vCenter=true&width=650&height=65&lines=Sondos+Naasan;Software+Engineering+Student;Aspiring+Front-End+Developer" alt="Sondos Naasan" />
 </div>
 
 > Passionate about building responsive and user-friendly web applications. I enjoy turning ideas into practical projects, exploring modern web technologies, and continuously improving my development skills. Currently focusing on React.js and Front-End Development.
@@ -47,11 +45,10 @@
 
 <p align="left">
   <a href="https://github.com/SondosNaasan31">
-    <img src="https://img.shields.io/badge/GitHub-087B55?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-065F46?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:087B55,100:065F46&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:065F46,100:047857&height=110&section=footer" />
 </div>
-
